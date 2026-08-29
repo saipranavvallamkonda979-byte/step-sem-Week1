@@ -26,6 +26,7 @@ public public class SeatDuplicationChecker {
 
         checkDuplicateSeats(seats);
     }
-} {
+} 
+{
     
 }
